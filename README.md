@@ -21,11 +21,8 @@ A student can rank their skill level using following scale:
 | Poor     | 1     |
 | Unranked | 0     |
 
-:::tip
 The "Ranking" will be the value the user sees, the "Value" will be the value that is stored somewhere.
-
 i.e. `<option value=5>Awesome</option>`
-:::
 
 ### Getting Started
 
@@ -52,9 +49,7 @@ Maybe `select` elements to create dropdowns?
 
 Or maybe `radio` buttons?
 
-:::info
 Remember the `<fieldset>` and `<legend>` elements make using `<radio>` buttons easier/more semantic.
-:::
 
 ![Radio](./img/radio-buttons.png)
 
